@@ -9,7 +9,10 @@ Week 2 task for the Vortex Tech Cybersecurity Internship Track: hands-on practic
 - `Week2_SecurityTools_Arooj.docx` — full write-up: password checker logic and example outputs, port scan results, what open ports mean, and a reflection.
 
 ## How to run
-CLI version:python3 password_checker.py
-GUI version:python3 password_analyzer_gui.py
+CLI version:
+python3 password_checker.py
+GUI version:
+python3 password_analyzer_gui.py
+
 Only localhost was scanned with Nmap, in line with the task's permission requirement — no third-party network was tested.
 
